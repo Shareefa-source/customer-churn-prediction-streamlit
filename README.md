@@ -122,7 +122,6 @@ Real-time churn prediction via form inputs
 
 Designed for non-technical users (business teams, analysts)
 
-Live App: http://localhost:8503/
 
 ---
 
