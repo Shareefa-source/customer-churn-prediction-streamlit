@@ -136,10 +136,16 @@ Scalable to telecom, banking, SaaS, and SME contexts
 
 ---
 
-## 👩🏽‍💻 Author
+## 👤 Author
+**Sharifatu Musah**  
+ Data Analyst  
+**Skills**: SQL | Python | Power BI | Machine Learning  
 
-**Sharifatu Musah**
-**Data Analyst | Machine Learning Enthusiast**
+
+
+
+
+----
 
 
 
